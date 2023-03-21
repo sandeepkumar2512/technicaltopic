@@ -2,11 +2,11 @@
 
 1. Microservice Patterns
     1. SAGA
-        1. Choreography 
-            https://www.vinsguru.com/choreography-saga-pattern-with-spring-boot/ 
-            https://www.youtube.com/watch?v=aOen1-pQLZg&list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL 
-        2. Orchestration 
-            https://www.vinsguru.com/orchestration-saga-pattern-with-spring-boot/
+        1. Choreography <br/>
+            https://www.vinsguru.com/choreography-saga-pattern-with-spring-boot/ <br/>
+            https://www.youtube.com/watch?v=aOen1-pQLZg&list=PLVz2XdJiJQxw1H3JVhclHc__WYDaiS1uL <br/>
+        2. Orchestration <br/>
+            https://www.vinsguru.com/orchestration-saga-pattern-with-spring-boot/<br/>
 
 2. Problem Solving
 3. SpringBoot
